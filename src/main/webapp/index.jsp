@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>welcome to jenkins pipeline!</h2>
+<h2>welcome to Devops pipeline!</h2>
 </body>
 </html>
